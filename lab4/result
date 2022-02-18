@@ -1,0 +1,26 @@
+daisy ----> daisy
+daisy ----> tulips
+daisy ----> daisy
+daisy ----> daisy
+daisy ----> daisy
+sunflowers ----> sunflowers
+sunflowers ----> sunflowers
+sunflowers ----> sunflowers
+sunflowers ----> sunflowers
+sunflowers ----> sunflowers
+roses ----> roses
+roses ----> roses
+roses ----> tulips
+roses ----> roses
+roses ----> tulips
+dandelion ----> dandelion
+dandelion ----> daisy
+dandelion ----> tulips
+dandelion ----> dandelion
+dandelion ----> dandelion
+tulips ----> roses
+tulips ----> tulips
+tulips ----> tulips
+tulips ----> tulips
+tulips ----> tulips
+{'daisy': 4, 'dandelion': 3, 'roses': 3, 'sunflowers': 5, 'tulips': 4}
